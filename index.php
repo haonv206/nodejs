@@ -6,5 +6,4 @@
  * Time: 2:32 PM
  * To change this template use File | Settings | File Templates.
  */
-
 echo "It works!";
